@@ -7,7 +7,7 @@ Forecasting in social science is a complicated business with questionable outcom
 
 The goal of this paper is to test whether it is possible to predict election outcome in Germany, where a wide range of parties are competing for power, utilizing current algo- rithms from machine learning and deep learning method- ologies, which are not commonly employed for predicting multiparty systems. The complex federal parliamentary re- public system of Germany provides a compelling contrast to the two-party system of the United States and thus will add greater depth to this field of research.
 
-The models implemented in this paper build upon the work done by Stoetzer et al. (2019) [3]. This project will ex- pand further on their analysis by investigating whether ap- proaches using machine learning and neural networks will improve upon their existing methodology.
+The models implemented in this paper build upon the work done by Stoetzer et al. (2019). This project will expand further on their analysis by investigating whether approaches using machine learning and neural networks will improve upon their existing methodology.
 
 #### Methodology
 
