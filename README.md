@@ -14,7 +14,7 @@ The models implemented in this paper build upon the work done by Stoetzer et al.
 Existing literature that endeavors to forecast election results have largely been based on classical statistical mod- elling with a multitude of assumptions about how the sys- tem works. Machine learning and deep learning models, on the other hand, do not require as many assumptions about the relationships between the variables of interest. There- fore, our research will seek to discover how well machine learning and deep learning forecasting could perform com- pared to existing statistical models when using the same data.
 This project will employ three approaches to determine which model has the best predictive ability:
 <ol>
-<li> Traditional machine learning regression algorithms**: this will use simple model set-up with training and test set data to predict party vote shares on election day;
+<li> Traditional machine learning regression algorithms: this will use simple model set-up with training and test set data to predict party vote shares on election day;
 </li>
 <li> Deep Neural Network (DNN) with different layers of learning: this model will utilize different optimizers and automate the process of searching for the best hyperparameters to find the most appropriate set-up for this time-series problem;
 </li>
