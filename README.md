@@ -22,3 +22,6 @@ This project will employ three approaches to determine which model has the best 
 </li>
 </ol>	
 
+![alt text](https://github.com/huydang90/Predicting-German-Election/blob/master/Progress%20Report/Predict%20German%20Election%20Poster.png?raw=true)
+
+
